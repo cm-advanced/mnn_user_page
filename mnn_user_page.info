@@ -5,7 +5,7 @@ description = "Customizations to the user page"
 files[] = mnn_user_page.module
 
 package = "MNN Community Media Advanced"
-version = "7.x-1.0"
+version = "7.x-1.1"
 core = "7.x"
 project = "mnn_user_page"
 project_status_url = https://github.com/cm-advanced/mnn_user_page
